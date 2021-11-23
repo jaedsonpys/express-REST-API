@@ -1,0 +1,16 @@
+[
+	{
+		"nome": "Arthur",
+		"idade": "13",
+		"cidade": "Amapá",
+		"país": "Brasil",
+		"estado": "Manaus"
+	},
+	{
+		"nome": "Júlia",
+		"idade": "15",
+		"cidade": "Alagoas",
+		"país": "Brasil",
+		"estado": "Maceió"
+	}
+]
